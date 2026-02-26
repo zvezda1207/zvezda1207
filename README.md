@@ -1,4 +1,4 @@
-# 👋 Привет! Я Ирина — стажёр backend-разработчика (Python)
+# 👋 Привет! Я Ирина — Junior Backend Developer (Python)
 
 Начинающий backend-разработчик, ищу стажировку / начальную позицию.  
 В рамках обучения и самостоятельной практики разрабатывала REST API на Python, работала с базами данных и контейнеризацией.
@@ -25,7 +25,7 @@
 
 ---
 
-## 📂 Проекты (учебные)
+## 📂 Проекты
 
 ### 🎬 Cinema Booking System — дипломный проект
 🔗 https://github.com/zvezda1207/Cinema-diplom
@@ -41,7 +41,7 @@ Python 3.11, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, Docker Compose
 ### 📢 FastAPI Advertisement API
 🔗 https://github.com/zvezda1207/Fast-api-homework1
 
-Учебное REST API для управления объявлениями и пользователями.
+REST API для управления объявлениями и пользователями.
 
 **Стек:** FastAPI, PostgreSQL, SQLAlchemy (async), Docker
 
