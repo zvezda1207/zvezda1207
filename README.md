@@ -27,6 +27,24 @@
 
 ## 📂 Проекты
 
+### 📊 Price Compare Desktop App
+🔗 https://github.com/zvezda1207/price-compare-app
+
+Desktop-приложение для автоматического сравнения прайсов поставщиков.
+
+**Функциональность:**
+
+- Сопоставление товаров по артикулу и наименованию
+- Нормализация строк (регулярные выражения)
+- Подсветка минимальной цены
+- Валидация входных данных
+- Сборка в standalone .exe
+
+**Стек:**
+Python, pandas, openpyxl, tkinter, PyInstaller
+
+---
+
 ### 🎬 Cinema Booking System — дипломный проект
 🔗 https://github.com/zvezda1207/Cinema-diplom
 
