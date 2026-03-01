@@ -45,6 +45,27 @@ Python, pandas, openpyxl, tkinter, PyInstaller
 
 ---
 
+### 🔐 Auth & Access Control API  
+🔗 https://github.com/zvezda1207/Auth-test  
+
+Backend-приложение с собственной системой аутентификации и авторизации  
+без использования стандартного Django-auth.
+
+**Ключевые особенности:**
+- Кастомная модель пользователя
+- JWT-аутентификация с blacklist токенов
+- Гибкая ролевая модель (admin, manager, user, guest)
+- Динамическое управление правами через API
+- Кастомный DRF Permission-класс
+- Разделение аутентификации и авторизации
+
+Проект демонстрирует понимание архитектуры backend-приложений и механизмов контроля доступа.
+
+**Стек:**
+Django, Django REST Framework, PostgreSQL, JWT, bcrypt
+
+---
+
 ### 🎬 Cinema Booking System — дипломный проект
 🔗 https://github.com/zvezda1207/Cinema-diplom
 
