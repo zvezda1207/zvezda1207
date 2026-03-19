@@ -34,6 +34,26 @@ Python-разработчик, специализируюсь на backend-ра�
 
 ## 🚀 Ключевые проекты
 
+### 🤖 Telegram Caption Bot
+
+🔗 https://github.com/zvezda1207/telegram-caption-bot
+
+Telegram-бот для генерации мемов: пользователь отправляет изображение, бот добавляет случайную подпись, сохраняет результат в облаке и позволяет опубликовать его в канал.
+
+**Стек:**
+Python, python-telegram-bot, Pillow, Cloudinary, Docker, Railway
+
+Реализовано:
+Обработка изображений и генерация мемов
+Интеграция с Telegram Bot API
+Загрузка и хранение изображений в Cloudinary
+Асинхронная обработка запросов
+Inline-кнопки и взаимодействие с пользователем
+Деплой в облако (Railway)
+Контейнеризация (Docker)
+
+---
+
 ### 📊 Price Compare Desktop App  
 🔗 https://github.com/zvezda1207/price-compare-app
 
