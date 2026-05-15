@@ -1,11 +1,10 @@
-# 👋 Привет! Я Ирина — Junior Python Developer (Backend & Automation)
+# 👋 Привет! Я Ирина — Junior Python Developer (Backend & Web Development)
 
-Python-разработчик, ориентированный на backend-разработку и автоматизацию.
-Разрабатываю API, работаю с базами данных и создаю сервисы, которые упрощают и автоматизируют бизнес-процессы.
+Python-разработчик, ориентированный на backend-разработку и создание веб-приложений. Разрабатываю API, работаю с базами данных и создаю веб-приложения с упором на интеграции, удобство использования и практическую бизнес-логику.
 
-Имею опыт интеграции с внешними API (Telegram, Cloudinary), обработки данных и деплоя приложений в облако с использованием Docker.
+Имею опыт работы с Django, FastAPI, PostgreSQL, Docker, Telegram Bot API и деплоем приложений в облако.
 
-📍 Открыта к позициям Junior Backend Developer / Python Developer
+📍 Открыта к позициям Junior Python Developer / Backend Developer / Web Developer
 
 ---
 
@@ -24,6 +23,11 @@ Python-разработчик, ориентированный на backend-ра�
 - pandas
 - openpyxl
 
+### Web Development
+- HTML/CSS
+- Django Templates
+- Адаптивная верстка
+
 ### Интеграции и автоматизация
 - Telegram Bot API
 - Cloudinary
@@ -39,6 +43,44 @@ Python-разработчик, ориентированный на backend-ра�
 ---
 
 ## 🚀 Ключевые проекты
+
+### 🔐 Auth & Access Control API  
+🔗 https://github.com/zvezda1207/Auth-test
+
+Backend-приложение с собственной системой аутентификации и ролевой авторизации.
+
+Реализована кастомная модель пользователя, JWT-аутентификация с blacklist токенов и динамическая система прав доступа.
+
+**Стек:**
+Django, Django REST Framework, PostgreSQL, JWT, bcrypt
+
+Реализовано:
+- Кастомная система ролей (admin, manager, user, guest)
+- Гибкая модель доступа к бизнес-объектам
+- JWT middleware и DRF authentication
+- Разграничение прав на уровне Permission-классов
+
+---
+
+## 🏗️ KOSTIN.STROY — Website for Construction Company
+
+🔗 https://github.com/zvezda1207/building_company
+
+Веб-приложение-портфолио для строительной компании с адаптивным интерфейсом и административной панелью для управления контентом.
+
+**Стек:**
+Django, HTML/CSS, JavaScript, SQLite
+
+Реализовано:
+
+- Адаптивная верстка (desktop / tablet / mobile)
+ -Структурирование контента и UX
+- Django templates и Django Media
+- Административная панель для управления проектами
+- Мобильное бургер-меню
+- Организация frontend-структуры проекта
+
+---
 
 ### 🤖 Telegram Caption Bot
 
@@ -57,6 +99,23 @@ Python, python-telegram-bot, Pillow, Cloudinary, Docker, Railway
 - Inline-кнопки и взаимодействие с пользователем
 - Деплой в облако (Railway)
 - Контейнеризация (Docker)
+
+---
+
+### 🎬 Cinema Booking System  
+🔗 https://github.com/zvezda1207/Cinema-diplom
+
+Система онлайн-бронирования билетов с пользовательской и административной частью.
+
+**Стек:**
+FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, Docker Compose
+(Frontend: React)
+
+Реализовано:
+- CRUD API
+- Работа с БД
+- Миграции
+- Контейнеризация
 
 ---
 
@@ -79,79 +138,20 @@ Python, pandas, openpyxl, tkinter, PyInstaller
 
 ---
 
-### 🔐 Auth & Access Control API  
-🔗 https://github.com/zvezda1207/Auth-test
+## 📚 Дополнительные backend-проекты
 
-Backend-приложение с собственной системой аутентификации и ролевой авторизации.
-
-Реализована кастомная модель пользователя, JWT-аутентификация с blacklist токенов и динамическая система прав доступа.
-
-**Стек:**
-Django, Django REST Framework, PostgreSQL, JWT, bcrypt
-
-Реализовано:
-- Кастомная система ролей (admin, manager, user, guest)
-- Гибкая модель доступа к бизнес-объектам
-- JWT middleware и DRF authentication
-- Разграничение прав на уровне Permission-классов
+- **FastAPI Advertisement API** — REST API для работы с объявлениями и пользователями (FastAPI, PostgreSQL, SQLAlchemy, Docker)
+- **Flask REST API** — REST API приложение на Flask с PostgreSQL
+- **Django REST API (Game Weapons)** — учебный API-проект на Django REST Framework
 
 ---
 
-### 🎬 Cinema Booking System  
-🔗 https://github.com/zvezda1207/Cinema-diplom
+### ⚛️ Дополнительно
 
-Система онлайн-бронирования билетов с пользовательской и административной частью.
+Имею базовый опыт работы с frontend-технологиями, React и адаптивной версткой.
 
-**Стек:**
-FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, Docker Compose
-(Frontend: React)
-
-Реализовано:
-- CRUD API
-- Работа с БД
-- Миграции
-- Контейнеризация
-
----
-
-### 📢 FastAPI Advertisement API
-🔗 https://github.com/zvezda1207/Fast-api-homework1
-
-REST API для управления объявлениями и пользователями.
-
-**Стек:** FastAPI, PostgreSQL, SQLAlchemy (async), Docker
-
----
-
-### 🧾 Flask REST API
-🔗 https://github.com/zvezda1207/Flask_Homework
-
-Простое REST API приложение для работы с объявлениями.
-
-**Стек:** Flask, PostgreSQL, Docker
-
----
-
-### ⚔️ Django REST API (Game Weapons)
-🔗 https://github.com/zvezda1207/Docker-restapi-weapon
-
-Учебный REST API для управления игровыми объектами.
-
-**Стек:** Django, Django REST Framework, Docker
-
----
-
-### ⚛️ Frontend-проекты (дополнительно)
-> Выполнены для практики работы с frontend-технологиями и расширения кругозора.  
-> Основной фокус — backend-разработка.
-
-- **React диплом (учебный проект):**  
-  https://github.com/zvezda1207/React-diploma   
-  Учебный frontend-проект — интернет-магазин с каталогом товаров, корзиной и оформлением заказа. 
-
-- **Todo List (пет-проект, frontend):**  
-  https://github.com/zvezda1207/React-project-todo-list  
-  Одностраничное приложение для управления задачами на React (Vite) с сохранением данных в localStorage.
+- **React Diploma** — учебный frontend-проект интернет-магазина на React
+- **Todo List** — SPA-приложение на React (Vite) с сохранением данных в localStorage
 
 ---
 
