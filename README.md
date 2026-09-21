@@ -62,6 +62,28 @@ Django, Django REST Framework, PostgreSQL, JWT, bcrypt
 
 ---
 
+### 🧠 Artem Psychologist — Website for a Clinical Psychologist
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-artflows.ru-2ea44f?style=flat-square)](https://artflows.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square)](https://github.com/zvezda1207/Psychologist)
+
+Персональный сайт-визитка для клинического психолога с адаптивным дизайном, формой обратной связи и интеграцией с Google Forms. Проект развернут на хостинге Beget с собственным доменом.
+
+**Стек:** Python, Flask, HTML5, CSS3, JavaScript, Google Forms API, Beget (deployment)
+
+**Реализовано:**
+- Адаптивная верстка (desktop / tablet / mobile) с использованием Flexbox и Grid
+- Кастомный дизайн в стиле «Амели» (рукописные шрифты, пастельная палитра)
+- Интеграция формы обратной связи через Google Forms (без использования бэкенда для формы)
+- Мультиязычность: русская и английская версии сайта (routes: `/`, `/en`)
+- Карусель дипломов и сертификатов с автопрокруткой
+- Бургер-меню для мобильных устройств
+- Настройка Яндекс.Вебмастер, Яндекс.Метрика и Яндекс.Бизнес
+- Деплой на хостинг Beget (Passenger WSGI + `.htaccess`)
+- Оптимизация под SEO (мета-теги, Open Graph, Twitter Cards)
+
+---
+
 ## 🏗️ KOSTIN.STROY — Website for Construction Company
 
 🔗 https://github.com/zvezda1207/building_company
